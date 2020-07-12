@@ -1,3 +1,8 @@
 The beginning of the educational process
-
 Information for students
+
+Homework Rules
+1. Open Github
+2. Create new project by clonning
+3. Add text file to tor project in CMD
+4. Make a new branch in CMD
