@@ -1,1 +1,6 @@
+The beginning of the educational process
 Information for students
+
+Homework Rules
+1. Open Github
+2. Create new project
