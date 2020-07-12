@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad8c62e-d5ae-4b02-9be7-82f31c4a60fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Git_Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gitfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gitfile.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8ad8c62e-d5ae-4b02-9be7-82f31c4a60fd" name="Default Changelist" comment="Homework Rules added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Dev2" />
+        <entry key="$PROJECT_DIR$" value="Dev1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594577458721</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework Rules added">
+      <created>1594578599067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594578599067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +77,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework Rules added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework Rules added" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594578776697">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1594578776697" />
     <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1594578462722">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
